@@ -1,3 +1,4 @@
 ## Roadmapedia is under maintenance! (Sorry, heroku is expensive, taking it down temporaily) 
 
-Check out the new Roadmapedia under development: asdfasdfadf.com
+
+<a href="http://www.example.com/" target="_blank">Click for</a> to check out the new Roadmapedia editor tool under development!
